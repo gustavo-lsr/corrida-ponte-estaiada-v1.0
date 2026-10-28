@@ -1,22 +1,22 @@
-# Corrida da Ponte Estaiada
+# Corrida Noturna da Ponte Estaiada 
 
-## Sobre o projeto
-Esse projeto foi feito em Python para ajudar na organização de uma corrida, permitindo fazer inscrições, calcular valores e registrar os tempos dos participantes.
+>Sistemas de inscrições e resultados desenvolvidos em Python para a disciplina de Programação 1(UNIFSA)
 
-## O que o programa faz
-- Cadastra os corredores
-- Gera um código para cada participante
-- Lista e pesquisa os corredores
-- Registra os tempos das provas
-- Mostra a classificação e o pódio
-- Exibe um relatório final da corrida
 
-## Tecnologias utilizadas
-Python, Git e GitHub.
+##Como executar
 
-## Como executar
-Abrir o projeto no VS Code e executar o arquivo `corrida.py`.
 
-## Integrantes
-Gustavo Patricio Silva Bezerra dos Santos
-Francisco Clayton Bastos Borges
+##Funcionalidades
+-Etapa 1: Calcular valor de inscrição, selecionar categoria por idade, receber nome completo, gerar código do corredor, validar tempo, converter tempo para segundos, calcular pace, formatar o valor em reais em duas casas, formatar o pace de segundos por km para texto, obter tempo limite e verificar premiação.
+
+-Etapa 2: ...
+
+##Exemplo de uso
+<img width="1598" height="877" alt="image" src="https://github.com/user-attachments/assets/4cab8675-5fc4-4ec3-b3ad-3906de65fe46" />
+
+##Autores
+-Gustavo Patricio Silva(github.com/gustavo-lsr)
+-Francisco Clayton Bastos(github.com/Borges-ctrl)
+
+
+

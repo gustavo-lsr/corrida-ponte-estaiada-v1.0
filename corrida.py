@@ -14,7 +14,7 @@ CATEGORIAS = (
 """
 
 
-def calcular_valor_inscricao(idade, distancia, lote):
+def calcular_valor_insscricao(idade, distancia, lote):
     """Calcula o valor da inscrição em reais.
 
     Regras de negócio:
